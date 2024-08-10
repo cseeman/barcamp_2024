@@ -33,7 +33,7 @@ Add your dev environment here!
 
 ### Carl Zulauf
 
-- **OS**: NixOS (linux)
+- **OS**: NixOS (linux) + Gnome DE
 - **IDE**: Pulsar/VSCode
 - **Terminal**: gnome-console/alacritty
 - **Shell**: fish
@@ -56,6 +56,10 @@ Add your dev environment here!
   - language-vue
   - language-fish-shell
   - nix
+- **Gnome Extensions**
+  - appindicator
+  - caffeine
+  - clipboard-history
 - **Languages**:
   - Ruby
   - JavaScript
