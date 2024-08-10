@@ -29,9 +29,40 @@ Sharing stuff from Barcamp 2024 (8/10/24). Did a talk "Show my your dev environm
 
 ## Other Dev Environments
 
-Add your dev environment here!  
+Add your dev environment here!
 
-### Template 
+### Carl Zulauf
+
+- **OS**: NixOS (linux)
+- **IDE**: Pulsar/VSCode
+- **Terminal**: gnome-console/alacritty
+- **Shell**: fish
+- **Utilities**:
+  - tmux
+  - eza
+  - starship
+  - distrobox
+  - docker/podman
+  - tproj (see dotbox repo)
+  - direnv
+  - micro
+  - ncdu
+- **Font**: Fira Code
+- **Theme**: Dark
+- **Pulsar Extensions**:
+  - ruby-block-converter
+  - toggle-quotes
+  - language-haml
+  - language-vue
+  - language-fish-shell
+  - nix
+- **Languages**:
+  - Ruby
+  - JavaScript
+  - nix
+- **Dotfiles**: [dotbox](https://github.com/carlzulauf/dotbox) (custom dotfiles manager plus collection of public dotfiles)
+
+### Template
 Hey you want a template for adding your dev environment? Here you go!  
 ```markdown
 
